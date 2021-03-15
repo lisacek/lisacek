@@ -1,7 +1,5 @@
 ### Hi there, I'm Petr Liška - aka [Lisacek, LIPETL or BESSGEORG][website] 👋
 
-[![Website](https://img.shields.io/website?label=LIPETL.eu&style=for-the-badge&url=https%3A%2F%2Flipetl.eu)](https://lipetl.eu)
-
 ## I'm a Student and Developer
 
 - 🌱 I’m currently learning everything 🤣
