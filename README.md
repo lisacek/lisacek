@@ -3,7 +3,7 @@
 ## I'm a Student and Developer
 
 - 🌱 I’m currently learning new stuff
-- 👯 I’m currently working under [PvPCraft][pvpc]
+- 👯 I’m currently working under [PvPCraft.cz][pvpc]
 - 🥅 2021 Goals: Contribute more and more and more
 - ⚡ Fun fact: I love to draw and going outside with friends
 
