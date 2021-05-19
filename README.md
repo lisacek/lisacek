@@ -9,7 +9,7 @@
 
 ### Spotify Playlist 🎧
 
-[<img  align="left"  src="https://mosaic.scdn.co/60/ab67616d0000b2731e6996455bedde98bee4d8f3ab67616d0000b2739bdba17352524fb9753a854fab67616d0000b273aa23541264bf8e3de8d9ad2aab67616d0000b273d924507819a6184ba30b4b33">][spotify]
+[<img  align="left"  src="https://mosaic.scdn.co/300/ab67616d0000b273845a5660b804e5f3e821fbedab67616d0000b273a88b9eddbf3650ea0529f2ccab67616d0000b273bd6bf55ccc52ed75ce77e726ab67616d0000b273c093d616bb4e710ee7ff841d">][spotify]
 <br />
 <br />
 ### Connect with me:
@@ -40,4 +40,4 @@
 [twitter]: https://twitter.com/foxakox
 [youtube]: https://youtube.com/BZEVA
 [instagram]: https://instagram.com/_li_sak_
-[spotify]: https://open.spotify.com/playlist/1aupmakx4lm0Qzj1EfWAQP?si=AC14MykkRBS3QHSc37K5Eg
+[spotify]: https://open.spotify.com/playlist/27faOfK38Ds9meBwtKgujH?si=289420fd1ec04982
