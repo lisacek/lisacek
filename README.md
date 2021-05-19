@@ -1,10 +1,10 @@
-### Hi there, I'm Petr Liška - aka [Lisacek, LIPETL or BESSGEORG][website] 👋
+### Hi there, I'm Petr Liška [website] 👋
 
 ## I'm a Student and Developer
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning new stuff
 - 👯 I’m currently working under [PvPCraft][pvpc]
-- 🥅 2020 Goals: Contribute more Open Source projects
+- 🥅 2021 Goals: Contribute more and more and more
 - ⚡ Fun fact: I love to draw and going outside with friends
 
 ### Spotify Playlist 🎧
@@ -14,15 +14,14 @@
 <br />
 ### Connect with me:
 
-[<img align="left" alt="lieptl.eu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="lipetl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="discord" width="22px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" />][discord]
 
 <br />
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/512px-IntelliJ_IDEA_Logo.svg.png" />
+<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -35,28 +34,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
-
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="lipetl's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lisacek&show_icons=true&hide_border=true" />
-</details>
-
 [pvpc]: https://pvpcraft.cz
-[website]: https://lipetl.eu
+[website]: https://notbadsyntax.dev
+[discord]: https://dsc.gg/notbadsyntax
 [twitter]: https://twitter.com/foxakox
 [youtube]: https://youtube.com/BZEVA
 [instagram]: https://instagram.com/_li_sak_
