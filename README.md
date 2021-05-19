@@ -9,7 +9,7 @@
 
 ### Spotify Playlist 🎧
 
-[<img  align="left"  src="https://mosaic.scdn.co/300/ab67616d0000b273845a5660b804e5f3e821fbedab67616d0000b273a88b9eddbf3650ea0529f2ccab67616d0000b273bd6bf55ccc52ed75ce77e726ab67616d0000b273c093d616bb4e710ee7ff841d">][spotify]
+[<img  align="left"  src="https://cdn.discordapp.com/attachments/626066151234994176/844529455820832768/6666.png">][spotify]
 <br />
 <br />
 ### Connect with me:
