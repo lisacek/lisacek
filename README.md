@@ -7,7 +7,7 @@
 
 > 🏆 525 Contributions in the Year 2021
  > 
-> 📦 44.5 kB Used in Github's Storage 
+> 📦 89.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,5 +64,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2021
+ Last Updated on 08/09/2021
 <!--END_SECTION:waka-->
