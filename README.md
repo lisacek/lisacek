@@ -1,6 +1,8 @@
 ### hey
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2019%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-437%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -67,5 +69,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2022 23:27:17 UTC
+ Last Updated on 13/02/2022 23:39:44 UTC
 <!--END_SECTION:waka-->
