@@ -1,13 +1,11 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%202%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-445%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 92 Contributions in the Year 2022
+> 🏆 90 Contributions in the Year 2022
  > 
 > 📦 93.3 kB Used in GitHub's Storage 
  > 
@@ -68,5 +66,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/02/2022 22:46:25 UTC
+ Last Updated on 27/02/2022 23:17:27 UTC
 <!--END_SECTION:waka-->
