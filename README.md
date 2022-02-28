@@ -1,7 +1,7 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-444%20Thousand%20lines%20of%20code-blue)
 
@@ -67,5 +67,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2022 19:09:11 UTC
+ Last Updated on 28/02/2022 19:49:53 UTC
 <!--END_SECTION:waka-->
