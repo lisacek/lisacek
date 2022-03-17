@@ -1,13 +1,13 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2038%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-487%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-486%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 155 Contributions in the Year 2022
+> 🏆 156 Contributions in the Year 2022
  > 
 > 📦 94.3 kB Used in GitHub's Storage 
  > 
@@ -31,8 +31,8 @@
 ```text
 Monday       100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
 Tuesday      109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
-Wednesday    133 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.68% 
-Thursday     59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
+Wednesday    132 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.54% 
+Thursday     60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
 Friday       118 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
 Saturday     53 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.44% 
 Sunday       140 commits    █████░░░░░░░░░░░░░░░░░░░░   19.66%
@@ -70,5 +70,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2022 22:39:26 UTC
+ Last Updated on 17/03/2022 23:52:44 UTC
 <!--END_SECTION:waka-->
