@@ -1,7 +1,7 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-491%20Thousand%20lines%20of%20code-blue)
 
@@ -70,5 +70,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2022 14:51:05 UTC
+ Last Updated on 20/04/2022 15:21:43 UTC
 <!--END_SECTION:waka-->
