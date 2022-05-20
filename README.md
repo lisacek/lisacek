@@ -13,9 +13,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
-> 🔑 38 Private Repositories  
+> 🔑 37 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -70,5 +70,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2022 12:25:32 UTC
+ Last Updated on 20/05/2022 13:11:45 UTC
 <!--END_SECTION:waka-->
