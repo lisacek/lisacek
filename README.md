@@ -5,7 +5,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-507%20Thousand%20lines%20of%20code-blue)
 
-**📊 Global GitHub data** 
+**📊 My GitHub data** 
 
 ```text
 🏆 246 contributions in 2022
@@ -69,5 +69,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:56:59 UTC
+ Last Updated on 12/06/2022 08:05:53 UTC
 <!--END_SECTION:waka-->
