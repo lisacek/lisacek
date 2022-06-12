@@ -5,19 +5,18 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-507%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**📊 Global GitHub data** 
 
-> 🏆 246 Contributions in the Year 2022
+```text
+🏆 246 contributions in 2022
+
+📦 95.7 kB used in GitHub's storage 
+
+📜 6 Public Repositories 
+
+🔑 42 Private Repositories  
  > 
-> 📦 95.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 42 Private Repositories  
- > 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
@@ -26,7 +25,7 @@
 🌙 Night      146 commits    ██████░░░░░░░░░░░░░░░░░░░   26.74%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm most productive on Sunday** 
 
 ```text
 Monday       64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
@@ -40,7 +39,7 @@ Sunday       117 commits    █████░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Europe/Budapest
@@ -57,7 +56,7 @@ IntelliJ                 8 hrs 11 mins       ███████████�
 
 ```
 
-**I Mostly Code in Java** 
+**💻 I mostly code in Java** 
 
 ```text
 Java                     60 repos            ████████████████████░░░░░   80.0% 
@@ -70,5 +69,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:32:53 UTC
+ Last Updated on 12/06/2022 07:56:59 UTC
 <!--END_SECTION:waka-->
