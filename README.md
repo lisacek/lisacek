@@ -56,15 +56,15 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     29 repos            ████████████████░░░░░░░░░   65.91% 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+Java                     30 repos            ████████████████░░░░░░░░░   66.67% 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
 
 ```
 
 
 
- Last Updated on 18/10/2022 05:17:57 UTC
+ Last Updated on 18/10/2022 06:40:27 UTC
 <!--END_SECTION:waka-->
