@@ -1,7 +1,7 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-856%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-856%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568%20Thousand%20lines%20of%20code-blue)
 
@@ -9,7 +9,7 @@
 
 > 🏆 549 Contributions in the Year 2022
  > 
-> 📦 152.1 kB Used in GitHub's Storage 
+> 📦 152.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,5 +71,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/12/2022 19:19:21 UTC
+ Last Updated on 09/12/2022 20:28:25 UTC
 <!--END_SECTION:waka-->
