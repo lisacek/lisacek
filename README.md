@@ -1,7 +1,7 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-650%20Thousand%20lines%20of%20code-blue)
 
@@ -66,5 +66,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 15:20:56 UTC
+ Last Updated on 31/12/2022 16:28:33 UTC
 <!--END_SECTION:waka-->
