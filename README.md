@@ -1,13 +1,13 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-650%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 558 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 833.1 kB Used in GitHub's Storage 
  > 
@@ -46,10 +46,11 @@ Sunday       65 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Kotlin                   5 mins              █████████████████████████   100.0%
+Java                     6 mins              ██████████████░░░░░░░░░░░   56.89% 
+Kotlin                   5 mins              ██████████░░░░░░░░░░░░░░░   43.11%
 
 🔥 Editors: 
-IntelliJ                 5 mins              █████████████████████████   100.0%
+IntelliJ                 11 mins             █████████████████████████   100.0%
 
 ```
 
@@ -66,5 +67,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 23:22:30 UTC
+ Last Updated on 01/01/2023 01:48:04 UTC
 <!--END_SECTION:waka-->
