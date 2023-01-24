@@ -1,7 +1,7 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-651%20Thousand%20lines%20of%20code-blue)
 
@@ -46,10 +46,11 @@ Sunday       65 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   4 mins              █████████████░░░░░░░░░░░░   53.57% 
+Java                     3 mins              ███████████░░░░░░░░░░░░░░   46.43%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -66,5 +67,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2023 23:24:17 UTC
+ Last Updated on 24/01/2023 01:38:26 UTC
 <!--END_SECTION:waka-->
