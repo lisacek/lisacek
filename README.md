@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-884%20hrs%2054%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-653%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-654%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 28 Contributions in the Year 2023
  > 
-> 📦 833.4 kB Used in GitHub's Storage 
+> 📦 834.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,15 +56,15 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     44 repos            ██████████████████░░░░░░░   72.13% 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
-Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
+Java                     46 repos            ██████████████████░░░░░░░   71.88% 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
+Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
 
 ```
 
 
 
- Last Updated on 07/02/2023 09:23:50 UTC
+ Last Updated on 07/02/2023 11:19:50 UTC
 <!--END_SECTION:waka-->
