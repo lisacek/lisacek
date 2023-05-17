@@ -13,9 +13,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 70 Private Repositories 
+> 🔑 67 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -63,5 +63,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2023 12:33:06 UTC
+ Last Updated on 17/05/2023 13:20:20 UTC
 <!--END_SECTION:waka-->
