@@ -1,13 +1,13 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-957%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 986.6 kB Used in GitHub's Storage 
+> 📦 995.5 kB Used in GitHub's Storage 
  > 
 > 🏆 241 Contributions in the Year 2023
  > 
@@ -44,11 +44,11 @@ Sunday                   358 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-JavaScript               30 mins             ██████████████████████░░░   89.29 % 
-JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+JavaScript               58 mins             ████████████████████████░   94.07 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 Editors: 
-IntelliJ                 34 mins             █████████████████████████   100.00 % 
+IntelliJ                 1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -64,5 +64,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2023 22:09:46 UTC
+ Last Updated on 10/09/2023 23:10:37 UTC
 <!--END_SECTION:waka-->
