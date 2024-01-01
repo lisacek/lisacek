@@ -9,7 +9,7 @@
 
 > 📦 998.4 kB Used in GitHub's Storage 
  > 
-> 🏆 262 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,14 +44,10 @@ Sunday                   60 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Java                     1 hr 3 mins         ████████████████████░░░░░   81.30 % 
-Java Properties          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Properties               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Groovy                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Gradle                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -67,5 +63,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 23:11:41 UTC
+ Last Updated on 01/01/2024 00:53:24 UTC
 <!--END_SECTION:waka-->
