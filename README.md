@@ -1,7 +1,7 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -44,10 +44,14 @@ Sunday                   60 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     25 mins             ████████████████████████░   95.16 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -63,5 +67,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2024 23:12:15 UTC
+ Last Updated on 04/01/2024 00:48:22 UTC
 <!--END_SECTION:waka-->
