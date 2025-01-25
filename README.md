@@ -9,6 +9,8 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
+> 🏆 40 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -42,11 +44,10 @@ Sunday                   98 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   99.79 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -62,5 +63,5 @@ PHP                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2025 23:13:19 UTC
+ Last Updated on 25/01/2025 00:56:57 UTC
 <!--END_SECTION:waka-->
