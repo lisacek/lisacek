@@ -9,8 +9,6 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 78 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -67,5 +65,5 @@ PHP                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2025 15:14:59 UTC
+ Last Updated on 06/02/2025 16:15:48 UTC
 <!--END_SECTION:waka-->
