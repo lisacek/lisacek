@@ -9,6 +9,8 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
+> 🏆 136 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -65,5 +67,5 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2025 14:15:12 UTC
+ Last Updated on 24/02/2025 15:16:41 UTC
 <!--END_SECTION:waka-->
